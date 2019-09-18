@@ -12,4 +12,4 @@ const printBox = (width, height) =>{
     }
 }
 
-printBox(5,10)
+printBox(5,10)  
